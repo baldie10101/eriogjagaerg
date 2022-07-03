@@ -1,0 +1,3 @@
+game:GetService("ReplicatedStorage").Events.Rebirth:FireServer()
+wait(1)
+game:Shutdown()
